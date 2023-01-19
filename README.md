@@ -8,6 +8,7 @@ This is a web based application developed for health related telugu based websit
 
 
 *Project Link* - https://witty-ground-053842100.2.azurestaticapps.net
+
 *Project Demo Video Link* - https://youtu.be/JrqcXodsr30
 
 ### Azure Technologies Used For Project 
@@ -15,7 +16,7 @@ This is a web based application developed for health related telugu based websit
 - Health Bot
 
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
