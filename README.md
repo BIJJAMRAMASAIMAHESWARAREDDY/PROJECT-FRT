@@ -40,7 +40,7 @@ This is a web based application developed for health related telugu based websit
 
 
 
-### Privacy policy -
+### Services -
 
 ![3](https://user-images.githubusercontent.com/111236831/213455033-2b720ec3-d966-4726-8f3a-e5279e794cd3.jpg)
 
